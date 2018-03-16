@@ -4,7 +4,7 @@
   "nickName": "Keener",
   "privateName": false,
   "picture": "images/natalia_kowalenko.jpg",
-  "privatePicture": false,
+  "privatePicture": true,
   "email": "natalia.kowalenko@mail.utoronto.ca",
   "privateEmail": false,
   "github": "nataliakow",
